@@ -78,6 +78,22 @@ function getRandomGreeting() {
     "Mission failed, we will get them next time",
     "NUKE INCOMING!",
     "I spent too much time making these",
+    "Bluestorm is the best",
+    "Ronav is gay",
+    "Dont do drugs kids",
+    "Go watch youtube, not tik tok",
+    "you can trust temu",
+    "my youtube: youtube.com/@bluestormshre",
+    "I have 1 milion power in rise of kingdoms",
+    "come play brawl stars with me",
+    "finish your test, then play",
+    "i know your playing in school",
+    "RCMS is the best",
+    "YOU HAVE A PHONE!!!!!!!!!",
+    "This sites gives you -20 braincells",
+    ":)",
+    "English or Spanish is so old, please stop",
+    "https://sites.google.com/fcpsschools.net/kingkongmonkeystyle",
   ];
   var randomIndex = Math.floor(Math.random() * greetings.length);
   return greetings[randomIndex];
