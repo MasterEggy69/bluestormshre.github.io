@@ -94,6 +94,9 @@ function getRandomGreeting() {
     ":)",
     "English or Spanish is so old, please stop",
     "https://sites.google.com/fcpsschools.net/kingkongmonkeystyle is great",
+    "pb&j is overrated",
+    "law by mike is the best",
+    "use microsoft bing for copilot AI",
   ];
   var randomIndex = Math.floor(Math.random() * greetings.length);
   return greetings[randomIndex];
