@@ -93,7 +93,7 @@ function getRandomGreeting() {
     "This sites gives you -20 braincells",
     ":)",
     "English or Spanish is so old, please stop",
-    "https://sites.google.com/fcpsschools.net/kingkongmonkeystyle",
+    "https://sites.google.com/fcpsschools.net/kingkongmonkeystyle is great",
   ];
   var randomIndex = Math.floor(Math.random() * greetings.length);
   return greetings[randomIndex];
